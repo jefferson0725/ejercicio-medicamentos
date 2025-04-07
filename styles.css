@@ -1,0 +1,12 @@
+#inputContainer{
+    display: none;
+}
+#inventario{
+    display: none;
+}
+#presiones{
+    display: none;
+}
+#btnEnviarCantidad{
+    display: block;
+}
