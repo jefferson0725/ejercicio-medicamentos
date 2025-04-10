@@ -144,7 +144,7 @@
         actualizar(medicamentos);
         document.getElementById("inputContainer").style.display = "none";
         document.getElementById("presiones").style.display = "block";
-        document.getElementById("formPresiones").reset();
+        
 
         
     })
